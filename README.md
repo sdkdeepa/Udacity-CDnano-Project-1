@@ -8,7 +8,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 - Lastly, you will access your website in a browser using the unique S3 endpoint.
 
-###Project Submission Checklist
+### Project Submission Checklist
 Before submitting your project, please review and confirm the following items.
 
  - [x] I am confident all rubric items have been met and my project will pass as submitted.
