@@ -36,4 +36,4 @@ Before submitting your project, please review and confirm the following items.
 ### CloudFront Configration
 ![Image 5](https://github.com/sdkdeepa/Udacity-CDnano-Project-1/blob/main/Project1-Deepa%20Subramanian_AWS-Static-Website/Deepa-CloudFront-Configuration.png)
 
-Note: In step Secure Bucket via IAM. Disable Blocking public access to allow public access.(Had to figure out on my own. This step has changed as of 10/25/2020. 
+Note: In step 4, Secure Bucket via IAM, disable Blocking public access to allow public access.(Had to figure out on my own. This step has changed as of 10/25/2020. 
