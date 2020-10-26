@@ -21,4 +21,19 @@ Before submitting your project, please review and confirm the following items.
 
  - [x] I have included a README.txt file in the submission folder that includes the CloudFront endpoint URL for my project
  
- 
+### S3 Bucket creation
+![Image 1](https://github.com/sdkdeepa/Udacity-CDnano-Project-1/blob/main/Project1-Deepa%20Subramanian_AWS-Static-Website/Deepa-S3BucketCreation.png)
+
+### IAM Bucket Policy
+![Image 2](https://github.com/sdkdeepa/Udacity-CDnano-Project-1/blob/main/Project1-Deepa%20Subramanian_AWS-Static-Website/Deepa-S3-IAM-Bucket-Policy.png)
+
+### S3 configration for Static Web Hosting
+![Image 3](https://github.com/sdkdeepa/Udacity-CDnano-Project-1/blob/main/Project1-Deepa%20Subramanian_AWS-Static-Website/Deepa-S3-Config-Support-Static-Web-hosting.png)
+
+### Files uploaded to S3 bucket
+![Image 4](https://github.com/sdkdeepa/Udacity-CDnano-Project-1/blob/main/Project1-Deepa%20Subramanian_AWS-Static-Website/Deepa-Files-Uploaded-To-S3bucket.png)
+
+### CloudFront Configration
+![Image 5](https://github.com/sdkdeepa/Udacity-CDnano-Project-1/blob/main/Project1-Deepa%20Subramanian_AWS-Static-Website/Deepa-CloudFront-Configuration.png)
+
+Note: In step Secure Bucket via IAM. Disable Blocking public access to allow public access.(Had to figure out on my own. This step has changed as of 10/25/2020. 
